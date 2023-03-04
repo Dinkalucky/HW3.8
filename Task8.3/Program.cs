@@ -10,6 +10,9 @@ namespace Task8._3
     {
         static void Main(string[] args)
         {
+            Accountant accountant = new Accountant();
+            accountant.AskForBonus(Post.SEO,310);
+            Console.ReadLine();
         }
     }
 }

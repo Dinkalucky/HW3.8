@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Task8._3
 {
-    public enum Employee
+    public enum Post
     {
         SEO = 200,
-        Manager = 180,
+        Manager = 120,
         Programmer = 100
     }
 }
